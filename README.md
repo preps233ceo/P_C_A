@@ -1,5 +1,3 @@
-# P_C_A
-Principal Component Analysis on Breast Cancer Dataset
 # Breast Cancer PCA and Logistic Regression
 
 ## Introduction
