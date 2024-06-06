@@ -9,7 +9,7 @@ This project demonstrates the application of Principal Component Analysis (PCA) 
 1. **Load the Dataset**: The breast cancer dataset is loaded from `sklearn.datasets`.
 2. **Implement PCA**: PCA is applied to the dataset to reduce its dimensions.
 3. **Dimensionality Reduction**: The dataset is reduced to 2 PCA components.
-4. **Bonus - Logistic Regression**: Logistic regression is implemented for prediction using the reduced dataset.
+4. **Logistic Regression**: Logistic regression is implemented for prediction using the reduced dataset.
 
 ## Dependencies
 
